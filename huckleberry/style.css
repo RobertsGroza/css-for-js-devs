@@ -1,77 +1,12 @@
 * {
   box-sizing: border-box;
   font-family: 'Lato', sans-serif;
-
-  --green: hsl(160deg, 100%, 30%);
-  --gold: hsl(45deg, 100%, 50%);
-  --gold-darker: hsl(45deg, 100%, 40%);
-  --black: hsl(0deg, 0%, 0%);
-  --gray-darker: hsl(0deg, 0%, 10%);
-  --gray-dark: hsl(0deg, 0%, 30%);
-  --gray-medium: hsl(0deg, 0%, 40%);
-  --gray-light: hsl(0deg, 0%, 60%);
-  --white: hsl(0deg, 0%, 100%);
 }
 
 html,
 body {
   margin: 0;
   padding: 0;
-  color: var(--black);
 }
 
-strong {
-  color: var(--green);
-}
-
-h1 {
-  font: 2rem;
-  margin: 32px 0;
-}
-
-p {
-  font-size: 1rem;
-}
-
-header {
-  padding: 32px 0;
-  border-bottom: 4px solid var(--gray-medium);
-}
-
-header p {
-  max-width: 350px;
-}
-
-.max-width-wrapper {
-  max-width: 650px;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-main {
-  background-color: var(--gray-light);
-  padding: 32px 0;
-}
-
-.intro-chunk {
-  padding: 0 16px;
-}
-
-.card {
-  background-color: var(--white);
-  padding: 8px 16px;
-  border-bottom: 4px solid var(--gray-medium);
-}
-
-.card h2 {
-  background-color: var(--gold);
-  border-bottom: 4px solid var(--gold-darker);
-  width: fit-content;
-  padding: 16px 24px;
-  margin: 0;
-  font-size: 1.25rem;
-}
-
-h2.indented-heading {
-  margin-left: -24px;
-}
+/* Add styles here! */
