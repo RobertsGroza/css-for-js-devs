@@ -9,6 +9,11 @@ body {
   padding: 0;
 }
 
+h1 {
+  font-size: 2em;
+  line-height: 1.2;
+}
+
 p {
   font-size: 1.25rem;
   line-height: 1.5;
@@ -35,6 +40,8 @@ main {
 }
 
 .indented-heading {
+  font-size: 1.5em;
+  line-height: 1.2;
   margin: 0;
   margin-left: -32px;
   background-color: hsla(45, 100%, 50%, 1);
